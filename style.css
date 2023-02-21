@@ -1,0 +1,25 @@
+.bg-image{
+    background-image: url('new\ chanel.jpg');
+        height: 550px;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.mask{
+background-color: white(116, 116, 116, 0.26);
+color: white
+}
+h1{
+    color: white;
+    background-color: opacity 0.5 gray;
+}
+.p{
+    color: white
+}
+.chanel{
+    font-size:25px;
+    border: 1px black solid
+}
+.photo{
+    padding-bottom: 20px;
+}

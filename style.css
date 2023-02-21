@@ -11,10 +11,14 @@ color: white
 }
 h1{
     color: white;
-    background-color: opacity 0.5 gray;
+    background-color: black;
+    opacity: 0.5;
+
 }
-.p{
-    color: white
+.center{
+    color: white;
+    background-color: black;
+    opacity: 0.5;
 }
 .chanel{
     font-size:25px;

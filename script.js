@@ -16,8 +16,8 @@ function showContentOne() {
 
 function showContentTwo() {
     hidePanels();
-    document.getElementById('contentTwo').style.display = 'block';
-    document.getElementById('contentOne').className = 'accordionPanelTab highlight';
+    document.getElementById('lifeContentTwo').style.display = 'block';
+    document.getElementById('contentLifeTwoTab').className = 'accordionPanelTab highlight';
 }// When the button/tab is pressed with the onclick element, the hidePanelsLife() function is run as a reset and the paragraph is shown and the button is highlighted in blue.
 
 
